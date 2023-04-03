@@ -62,7 +62,7 @@ and [documentation](https://godoc.org/github.com/abadojack/whatlanggo).
 | Azerbaijani    | azj       | Azj |
 | Indonesian     | ind       | Ind |
 | Telugu         | tel       | Tel |
-| Persian        | pes       | Pes |
+| Persian        | per       | Per |
 | Malayalam      | mal       | Mal |
 | Hausa          | hau       | Hau |
 | Oriya          | ori       | Ori |
